@@ -1,0 +1,697 @@
+[
+ {
+   "Base Form": "arise",
+   "Past Simple": "arose",
+   "Past Participle": "arisen"
+ },
+ {
+   "Base Form": "awake",
+   "Past Simple": "awoke",
+   "Past Participle": "awoken"
+ },
+ {
+   "Base Form": "be",
+   "Past Simple": "was/were",
+   "Past Participle": "been"
+ },
+ {
+   "Base Form": "bear",
+   "Past Simple": "bore",
+   "Past Participle": "born(e)"
+ },
+ {
+   "Base Form": "beat",
+   "Past Simple": "beat",
+   "Past Participle": "beaten"
+ },
+ {
+   "Base Form": "become",
+   "Past Simple": "became",
+   "Past Participle": "become"
+ },
+ {
+   "Base Form": "begin",
+   "Past Simple": "began",
+   "Past Participle": "begun"
+ },
+ {
+   "Base Form": "bend",
+   "Past Simple": "bent",
+   "Past Participle": "bent"
+ },
+ {
+   "Base Form": "bet",
+   "Past Simple": "bet",
+   "Past Participle": "bet"
+ },
+ {
+   "Base Form": "bind",
+   "Past Simple": "bound",
+   "Past Participle": "bound"
+ },
+ {
+   "Base Form": "bite",
+   "Past Simple": "bit",
+   "Past Participle": "bitten"
+ },
+ {
+   "Base Form": "bleed",
+   "Past Simple": "bled",
+   "Past Participle": "bled"
+ },
+ {
+   "Base Form": "blow",
+   "Past Simple": "blew",
+   "Past Participle": "blown"
+ },
+ {
+   "Base Form": "break",
+   "Past Simple": "broke",
+   "Past Participle": "broken"
+ },
+ {
+   "Base Form": "breed",
+   "Past Simple": "bred",
+   "Past Participle": "bred"
+ },
+ {
+   "Base Form": "bring",
+   "Past Simple": "brought",
+   "Past Participle": "brought"
+ },
+ {
+   "Base Form": "broadcast",
+   "Past Simple": "broadcast",
+   "Past Participle": "broadcast"
+ },
+ {
+   "Base Form": "build",
+   "Past Simple": "built",
+   "Past Participle": "built"
+ },
+ {
+   "Base Form": "burn",
+   "Past Simple": "burnt/burned",
+   "Past Participle": "burnt/burned"
+ },
+ {
+   "Base Form": "burst",
+   "Past Simple": "burst",
+   "Past Participle": "burst"
+ },
+ {
+   "Base Form": "buy",
+   "Past Simple": "bought",
+   "Past Participle": "bought"
+ },
+ {
+   "Base Form": "can",
+   "Past Simple": "could",
+   "Past Participle": "… (been able)"
+ },
+ {
+   "Base Form": "catch",
+   "Past Simple": "caught",
+   "Past Participle": "caught"
+ },
+ {
+   "Base Form": "choose",
+   "Past Simple": "chose",
+   "Past Participle": "chosen"
+ },
+ {
+   "Base Form": "cling",
+   "Past Simple": "clung",
+   "Past Participle": "clung"
+ },
+ {
+   "Base Form": "come",
+   "Past Simple": "came",
+   "Past Participle": "come"
+ },
+ {
+   "Base Form": "cost",
+   "Past Simple": "cost",
+   "Past Participle": "cost"
+ },
+ {
+   "Base Form": "creep",
+   "Past Simple": "crept",
+   "Past Participle": "crept"
+ },
+ {
+   "Base Form": "cut",
+   "Past Simple": "cut",
+   "Past Participle": "cut"
+ },
+ {
+   "Base Form": "deal",
+   "Past Simple": "dealt",
+   "Past Participle": "dealt"
+ },
+ {
+   "Base Form": "dig",
+   "Past Simple": "dug",
+   "Past Participle": "dug"
+ },
+ {
+   "Base Form": "do",
+   "Past Simple": "did",
+   "Past Participle": "done"
+ },
+ {
+   "Base Form": "draw",
+   "Past Simple": "drew",
+   "Past Participle": "drawn"
+ },
+ {
+   "Base Form": "dream",
+   "Past Simple": "dreamt/dreamed",
+   "Past Participle": "dreamt/dreamed"
+ },
+ {
+   "Base Form": "drink",
+   "Past Simple": "drank",
+   "Past Participle": "drunk"
+ },
+ {
+   "Base Form": "drive",
+   "Past Simple": "drove",
+   "Past Participle": "driven"
+ },
+ {
+   "Base Form": "eat",
+   "Past Simple": "ate",
+   "Past Participle": "eaten"
+ },
+ {
+   "Base Form": "fall",
+   "Past Simple": "fell",
+   "Past Participle": "fallen"
+ },
+ {
+   "Base Form": "feed",
+   "Past Simple": "fed",
+   "Past Participle": "fed"
+ },
+ {
+   "Base Form": "feel",
+   "Past Simple": "felt",
+   "Past Participle": "felt"
+ },
+ {
+   "Base Form": "fight",
+   "Past Simple": "fought",
+   "Past Participle": "fought"
+ },
+ {
+   "Base Form": "find",
+   "Past Simple": "found",
+   "Past Participle": "found"
+ },
+ {
+   "Base Form": "fly",
+   "Past Simple": "flew",
+   "Past Participle": "flown"
+ },
+ {
+   "Base Form": "forbid",
+   "Past Simple": "forbade",
+   "Past Participle": "forbidden"
+ },
+ {
+   "Base Form": "forget",
+   "Past Simple": "forgot",
+   "Past Participle": "forgotten"
+ },
+ {
+   "Base Form": "forgive",
+   "Past Simple": "forgave",
+   "Past Participle": "forgiven"
+ },
+ {
+   "Base Form": "freeze",
+   "Past Simple": "froze",
+   "Past Participle": "frozen"
+ },
+ {
+   "Base Form": "get",
+   "Past Simple": "got",
+   "Past Participle": "got"
+ },
+ {
+   "Base Form": "give",
+   "Past Simple": "gave",
+   "Past Participle": "given"
+ },
+ {
+   "Base Form": "go",
+   "Past Simple": "went",
+   "Past Participle": "gone"
+ },
+ {
+   "Base Form": "grind",
+   "Past Simple": "ground",
+   "Past Participle": "ground"
+ },
+ {
+   "Base Form": "grow",
+   "Past Simple": "grew",
+   "Past Participle": "grown"
+ },
+ {
+   "Base Form": "hang",
+   "Past Simple": "hung",
+   "Past Participle": "hung"
+ },
+ {
+   "Base Form": "have",
+   "Past Simple": "had",
+   "Past Participle": "had"
+ },
+ {
+   "Base Form": "hear",
+   "Past Simple": "heard",
+   "Past Participle": "heard"
+ },
+ {
+   "Base Form": "hide",
+   "Past Simple": "hid",
+   "Past Participle": "hidden"
+ },
+ {
+   "Base Form": "hit",
+   "Past Simple": "hit",
+   "Past Participle": "hit"
+ },
+ {
+   "Base Form": "hold",
+   "Past Simple": "held",
+   "Past Participle": "held"
+ },
+ {
+   "Base Form": "hurt",
+   "Past Simple": "hurt",
+   "Past Participle": "hurt"
+ },
+ {
+   "Base Form": "keep",
+   "Past Simple": "kept",
+   "Past Participle": "kept"
+ },
+ {
+   "Base Form": "kneel",
+   "Past Simple": "knelt",
+   "Past Participle": "knelt"
+ },
+ {
+   "Base Form": "know",
+   "Past Simple": "knew",
+   "Past Participle": "known"
+ },
+ {
+   "Base Form": "lay",
+   "Past Simple": "laid",
+   "Past Participle": "laid"
+ },
+ {
+   "Base Form": "lead",
+   "Past Simple": "led",
+   "Past Participle": "led"
+ },
+ {
+   "Base Form": "lean",
+   "Past Simple": "leant/leaned",
+   "Past Participle": "leant/leaned"
+ },
+ {
+   "Base Form": "learn",
+   "Past Simple": "learnt/learned",
+   "Past Participle": "learnt/learned"
+ },
+ {
+   "Base Form": "leave",
+   "Past Simple": "left",
+   "Past Participle": "left"
+ },
+ {
+   "Base Form": "lend",
+   "Past Simple": "lent",
+   "Past Participle": "lent"
+ },
+ {
+   "Base Form": "lie (in bed)",
+   "Past Simple": "lay",
+   "Past Participle": "lain"
+ },
+ {
+   "Base Form": "lie (to not tell the truth)",
+   "Past Simple": "lied",
+   "Past Participle": "lied"
+ },
+ {
+   "Base Form": "light",
+   "Past Simple": "lit/lighted",
+   "Past Participle": "lit/lighted"
+ },
+ {
+   "Base Form": "lose",
+   "Past Simple": "lost",
+   "Past Participle": "lost"
+ },
+ {
+   "Base Form": "make",
+   "Past Simple": "made",
+   "Past Participle": "made"
+ },
+ {
+   "Base Form": "may",
+   "Past Simple": "might",
+   "Past Participle": "…"
+ },
+ {
+   "Base Form": "mean",
+   "Past Simple": "meant",
+   "Past Participle": "meant"
+ },
+ {
+   "Base Form": "meet",
+   "Past Simple": "met",
+   "Past Participle": "met"
+ },
+ {
+   "Base Form": "mow",
+   "Past Simple": "mowed",
+   "Past Participle": "mown/mowed"
+ },
+ {
+   "Base Form": "must",
+   "Past Simple": "had to",
+   "Past Participle": "…"
+ },
+ {
+   "Base Form": "overtake",
+   "Past Simple": "overtook",
+   "Past Participle": "overtaken"
+ },
+ {
+   "Base Form": "pay",
+   "Past Simple": "paid",
+   "Past Participle": "paid"
+ },
+ {
+   "Base Form": "put",
+   "Past Simple": "put",
+   "Past Participle": "put"
+ },
+ {
+   "Base Form": "read",
+   "Past Simple": "read",
+   "Past Participle": "read"
+ },
+ {
+   "Base Form": "ride",
+   "Past Simple": "rode",
+   "Past Participle": "ridden"
+ },
+ {
+   "Base Form": "ring",
+   "Past Simple": "rang",
+   "Past Participle": "rung"
+ },
+ {
+   "Base Form": "rise",
+   "Past Simple": "rose",
+   "Past Participle": "risen"
+ },
+ {
+   "Base Form": "run",
+   "Past Simple": "ran",
+   "Past Participle": "run"
+ },
+ {
+   "Base Form": "saw",
+   "Past Simple": "sawed",
+   "Past Participle": "sawn/sawed"
+ },
+ {
+   "Base Form": "say",
+   "Past Simple": "said",
+   "Past Participle": "said"
+ },
+ {
+   "Base Form": "see",
+   "Past Simple": "saw",
+   "Past Participle": "seen"
+ },
+ {
+   "Base Form": "sell",
+   "Past Simple": "sold",
+   "Past Participle": "sold"
+ },
+ {
+   "Base Form": "send",
+   "Past Simple": "sent",
+   "Past Participle": "sent"
+ },
+ {
+   "Base Form": "set",
+   "Past Simple": "set",
+   "Past Participle": "set"
+ },
+ {
+   "Base Form": "sew",
+   "Past Simple": "sewed",
+   "Past Participle": "sewn/sewed"
+ },
+ {
+   "Base Form": "shake",
+   "Past Simple": "shook",
+   "Past Participle": "shaken"
+ },
+ {
+   "Base Form": "shall",
+   "Past Simple": "should",
+   "Past Participle": "…"
+ },
+ {
+   "Base Form": "shed",
+   "Past Simple": "shed",
+   "Past Participle": "shed"
+ },
+ {
+   "Base Form": "shine",
+   "Past Simple": "shone",
+   "Past Participle": "shone"
+ },
+ {
+   "Base Form": "shoot",
+   "Past Simple": "shot",
+   "Past Participle": "shot"
+ },
+ {
+   "Base Form": "show",
+   "Past Simple": "showed",
+   "Past Participle": "shown"
+ },
+ {
+   "Base Form": "shrink",
+   "Past Simple": "shrank",
+   "Past Participle": "shrunk"
+ },
+ {
+   "Base Form": "shut",
+   "Past Simple": "shut",
+   "Past Participle": "shut"
+ },
+ {
+   "Base Form": "sing",
+   "Past Simple": "sang",
+   "Past Participle": "sung"
+ },
+ {
+   "Base Form": "sink",
+   "Past Simple": "sank",
+   "Past Participle": "sunk"
+ },
+ {
+   "Base Form": "sit",
+   "Past Simple": "sat",
+   "Past Participle": "sat"
+ },
+ {
+   "Base Form": "sleep",
+   "Past Simple": "slept",
+   "Past Participle": "slept"
+ },
+ {
+   "Base Form": "slide",
+   "Past Simple": "slid",
+   "Past Participle": "slid"
+ },
+ {
+   "Base Form": "smell",
+   "Past Simple": "smelt",
+   "Past Participle": "smelt"
+ },
+ {
+   "Base Form": "sow",
+   "Past Simple": "sowed",
+   "Past Participle": "sown/sowed"
+ },
+ {
+   "Base Form": "speak",
+   "Past Simple": "spoke",
+   "Past Participle": "spoken"
+ },
+ {
+   "Base Form": "spell",
+   "Past Simple": "spelt/spelled",
+   "Past Participle": "spelt/spelled"
+ },
+ {
+   "Base Form": "spend",
+   "Past Simple": "spent",
+   "Past Participle": "spent"
+ },
+ {
+   "Base Form": "spill",
+   "Past Simple": "spilt/spilled",
+   "Past Participle": "spilt/spilled"
+ },
+ {
+   "Base Form": "spit",
+   "Past Simple": "spat",
+   "Past Participle": "spat"
+ },
+ {
+   "Base Form": "spread",
+   "Past Simple": "spread",
+   "Past Participle": "spread"
+ },
+ {
+   "Base Form": "stand",
+   "Past Simple": "stood",
+   "Past Participle": "stood"
+ },
+ {
+   "Base Form": "steal",
+   "Past Simple": "stole",
+   "Past Participle": "stolen"
+ },
+ {
+   "Base Form": "stick",
+   "Past Simple": "stuck",
+   "Past Participle": "stuck"
+ },
+ {
+   "Base Form": "sting",
+   "Past Simple": "stung",
+   "Past Participle": "stung"
+ },
+ {
+   "Base Form": "stink",
+   "Past Simple": "stank",
+   "Past Participle": "stunk"
+ },
+ {
+   "Base Form": "strike",
+   "Past Simple": "struck",
+   "Past Participle": "struck"
+ },
+ {
+   "Base Form": "swear",
+   "Past Simple": "swore",
+   "Past Participle": "sworn"
+ },
+ {
+   "Base Form": "sweep",
+   "Past Simple": "swept",
+   "Past Participle": "swept"
+ },
+ {
+   "Base Form": "swell",
+   "Past Simple": "swelled",
+   "Past Participle": "swollen/swelled"
+ },
+ {
+   "Base Form": "swim",
+   "Past Simple": "swam",
+   "Past Participle": "swum"
+ },
+ {
+   "Base Form": "swing",
+   "Past Simple": "swung",
+   "Past Participle": "swung"
+ },
+ {
+   "Base Form": "take",
+   "Past Simple": "took",
+   "Past Participle": "taken"
+ },
+ {
+   "Base Form": "teach",
+   "Past Simple": "taught",
+   "Past Participle": "taught"
+ },
+ {
+   "Base Form": "tear",
+   "Past Simple": "tore",
+   "Past Participle": "torn"
+ },
+ {
+   "Base Form": "tell",
+   "Past Simple": "told",
+   "Past Participle": "told"
+ },
+ {
+   "Base Form": "think",
+   "Past Simple": "thought",
+   "Past Participle": "thought"
+ },
+ {
+   "Base Form": "throw",
+   "Past Simple": "threw",
+   "Past Participle": "thrown"
+ },
+ {
+   "Base Form": "understand",
+   "Past Simple": "understood",
+   "Past Participle": "understood"
+ },
+ {
+   "Base Form": "wake",
+   "Past Simple": "woke",
+   "Past Participle": "woken"
+ },
+ {
+   "Base Form": "wear",
+   "Past Simple": "wore",
+   "Past Participle": "worn"
+ },
+ {
+   "Base Form": "weep",
+   "Past Simple": "wept",
+   "Past Participle": "wept"
+ },
+ {
+   "Base Form": "will",
+   "Past Simple": "would",
+   "Past Participle": "…"
+ },
+ {
+   "Base Form": "win",
+   "Past Simple": "won",
+   "Past Participle": "won"
+ },
+ {
+   "Base Form": "wind",
+   "Past Simple": "wound",
+   "Past Participle": "wound"
+ },
+ {
+   "Base Form": "write",
+   "Past Simple": "wrote",
+   "Past Participle": "written"
+ }
+]
